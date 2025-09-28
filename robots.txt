@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cupad.iq/sitemap.xml
+
+# CupAd Iraq - Cup Advertisement Service
+# Contact: 9647833000907
